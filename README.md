@@ -16,7 +16,7 @@
 
 https://play.google.com/store/apps/details?id=com.humart.trost2
 
-![트로스트](https://drive.google.com/open?id=1BhgWUl2ucNoSdCN1jzBgPS4OzXgOu8L-)
+![트로스트](https://github.com/nakwon/nakwon.github.io/blob/master/%ED%8A%B8%EB%A1%9C%EC%8A%A4%ED%8A%B8.PNG)
 
 웹과 모바일 어플리 케이션으로 심리상담을 받을 수 있는 서비스 입니다.
 
@@ -59,7 +59,7 @@ https://play.google.com/store/apps/details?id=kr.co.stone_i.www.dagym
 
 https://play.google.com/store/apps/details?id=com.tntcrowd.educast
 
-![에듀캐스트](https://drive.google.com/open?id=1mpBpJB0uu-0tM6zhVmPc9zZMijj4m06N)
+![에듀캐스트](https://github.com/nakwon/nakwon.github.io/blob/master/%EC%97%90%EB%93%80%EC%BA%90%EC%8A%A4%ED%8A%B8.PNG)
 
 선임 안드로이드 개발자와 함께 유지보수를 하였습니다.
 
