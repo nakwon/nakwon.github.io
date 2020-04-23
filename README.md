@@ -15,7 +15,8 @@
 ### 트로스트(2015년 10월 ~ 2016년 11월)
 
 https://play.google.com/store/apps/details?id=com.humart.trost2
-![트로스트](C:\Users\Administrator\Desktop\트로스트.PNG)
+
+![트로스트](https://drive.google.com/open?id=1BhgWUl2ucNoSdCN1jzBgPS4OzXgOu8L-)
 
 웹과 모바일 어플리 케이션으로 심리상담을 받을 수 있는 서비스 입니다.
 
@@ -36,7 +37,7 @@ https://play.google.com/store/apps/details?id=com.humart.trost2
 
 https://play.google.com/store/apps/details?id=kr.co.stone_i.www.dagym
 
-![다짐](C:\Users\Administrator\Desktop\다짐.PNG)
+![다짐](https://drive.google.com/open?id=1mXFu8a23wxic-WKFFb-EUq7bfL7W6xja)
 
 사용자의 현재위치 기반으로 운동센터들을 추천해주고 최대 3개의 시설까지 패키지로 묶어서 결제하고 이용할 수 있는 서비스입니다.
 
@@ -58,7 +59,7 @@ https://play.google.com/store/apps/details?id=kr.co.stone_i.www.dagym
 
 https://play.google.com/store/apps/details?id=com.tntcrowd.educast
 
-![image-20200423134842109](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200423134842109.png)
+![에듀캐스트](https://drive.google.com/open?id=1mpBpJB0uu-0tM6zhVmPc9zZMijj4m06N)
 
 선임 안드로이드 개발자와 함께 유지보수를 하였습니다.
 
