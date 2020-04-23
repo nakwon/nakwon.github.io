@@ -37,7 +37,7 @@ https://play.google.com/store/apps/details?id=com.humart.trost2
 
 https://play.google.com/store/apps/details?id=kr.co.stone_i.www.dagym
 
-![다짐](https://drive.google.com/open?id=1mXFu8a23wxic-WKFFb-EUq7bfL7W6xja)
+![다짐](https://github.com/nakwon/nakwon.github.io/blob/master/%EB%8B%A4%EC%A7%90.PNG)
 
 사용자의 현재위치 기반으로 운동센터들을 추천해주고 최대 3개의 시설까지 패키지로 묶어서 결제하고 이용할 수 있는 서비스입니다.
 
