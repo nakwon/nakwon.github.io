@@ -16,7 +16,7 @@
 
 https://play.google.com/store/apps/details?id=com.humart.trost2
 
-![트로스트](https://github.com/nakwon/nakwon.github.io/blob/master/%ED%8A%B8%EB%A1%9C%EC%8A%A4%ED%8A%B8.PNG)
+![트로스트](https://user-images.githubusercontent.com/24802953/80063489-fb780680-8570-11ea-92d1-ca4021e4cfa2.PNG)
 
 웹과 모바일 어플리 케이션으로 심리상담을 받을 수 있는 서비스 입니다.
 
@@ -37,7 +37,7 @@ https://play.google.com/store/apps/details?id=com.humart.trost2
 
 https://play.google.com/store/apps/details?id=kr.co.stone_i.www.dagym
 
-![다짐](https://github.com/nakwon/nakwon.github.io/blob/master/%EB%8B%A4%EC%A7%90.PNG)
+![다짐](https://user-images.githubusercontent.com/24802953/80063505-0468d800-8571-11ea-8aa4-9d24c5e6dffd.PNG)
 
 사용자의 현재위치 기반으로 운동센터들을 추천해주고 최대 3개의 시설까지 패키지로 묶어서 결제하고 이용할 수 있는 서비스입니다.
 
@@ -59,7 +59,7 @@ https://play.google.com/store/apps/details?id=kr.co.stone_i.www.dagym
 
 https://play.google.com/store/apps/details?id=com.tntcrowd.educast
 
-![에듀캐스트](https://github.com/nakwon/nakwon.github.io/blob/master/%EC%97%90%EB%93%80%EC%BA%90%EC%8A%A4%ED%8A%B8.PNG)
+![에듀캐스트](https://user-images.githubusercontent.com/24802953/80063525-0c287c80-8571-11ea-8d0d-a621ebb24013.PNG)
 
 선임 안드로이드 개발자와 함께 유지보수를 하였습니다.
 
